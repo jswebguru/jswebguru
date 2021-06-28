@@ -3,7 +3,7 @@ I am a ambitious, results-driven senior full stack JavaScript & Python developer
 web/desktop app developments, eCommerce, booking app, financial platform, admin dashboard, etc. Customer satisfaction
 is one of my key objectives in all of my projects and your projects will be completed professionally and to your complete
 satisfaction. I can build your projects from scratch, fix bugs you have, update it to the latest version, etc.
-Let’s build fast, scalable products, and grow your business together!
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,7 @@ Let’s build fast, scalable products, and grow your business together!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jswebguru)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jswebguru&show_icons=true&count_private=true)  
