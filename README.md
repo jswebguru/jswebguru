@@ -15,6 +15,6 @@ satisfaction. I can build your projects from scratch, fix bugs you have, update 
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jswebguru)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=jswebguru&column=3&margin-w=15&margin-h=15
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jswebguru&show_icons=true&count_private=true)  
