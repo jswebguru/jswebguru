@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-#### Senior Full-stack Javascript & Python Developer
+#### Senior Full-stack Javascript & Python Developer (React/Redux, Typescript, Python/Django/Flask, Node/Express...)
 
-✅ React, Redux, Typescript, Material UI, Antd, Tailwind CSS, SCSS/LESS, Vue
-✅ Python, Django, Django REST Framework, Flask, Node, Express, GraphQL
-✅ Postgres, MySQL, MongoDB
-✅ AWS, GCP, Git, Docker, Heroku
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
