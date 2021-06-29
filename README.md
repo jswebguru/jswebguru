@@ -1,9 +1,11 @@
 ### Hi there 👋
-I am a ambitious, results-driven senior full stack JavaScript & Python developer who has 8+ years of experience in
-web/desktop app developments, eCommerce, booking app, financial platform, admin dashboard, etc. Customer satisfaction
-is one of my key objectives in all of my projects and your projects will be completed professionally and to your complete
-satisfaction. I can build your projects from scratch, fix bugs you have, update it to the latest version, etc.
 
+#### Senior Full-stack Javascript & Python Developer
+
+✅ React, Redux, Typescript, Material UI, Antd, Tailwind CSS, SCSS/LESS, Vue
+✅ Python, Django, Django REST Framework, Flask, Node, Express, GraphQL
+✅ Postgres, MySQL, MongoDB
+✅ AWS, GCP, Git, Docker, Heroku
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
