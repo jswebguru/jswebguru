@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Senior Full-stack Javascript & Python Developer (React/Redux, Typescript, Python/Django/Flask, Node/Express...)
+#### Welcome to my profile and let's build 
 
 <!--
 - 🔭 I’m currently working on ...
@@ -13,5 +13,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jswebguru&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jswebguru)](https://github.com/ryo-ma/github-profile-trophy)
 
