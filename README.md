@@ -21,5 +21,5 @@ If you have any problems, please contact me without hesitation.
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crazy-djactor&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jswebguru&show_icons=true&count_private=true)
 
