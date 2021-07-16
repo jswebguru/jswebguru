@@ -19,7 +19,9 @@ If you have any problems, please contact me without hesitation.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jswebguru&show_icons=true&count_private=true)
+
+-->
 
