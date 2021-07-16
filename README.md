@@ -21,5 +21,5 @@ If you have any problems, please contact me without hesitation.
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jswebguru)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crazy-djactor&show_icons=true&count_private=true)
 
